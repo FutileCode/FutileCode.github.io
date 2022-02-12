@@ -1,6 +1,6 @@
 This is a word guessing game based on Wordle/Lingo
 
-The same word list from Wordle is used
+There are over 2000 words to guess
 
 It allows for unlimited games and changing the visual theme.
 
